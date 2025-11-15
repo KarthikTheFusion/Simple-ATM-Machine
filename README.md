@@ -22,3 +22,6 @@ It demonstrates the use of Object-Oriented Programming (OOP), methods, and switc
 
 ## Author
 KarthikTheFusion
+
+<img width="577" height="823" alt="image" src="https://github.com/user-attachments/assets/cf863f69-9ef7-4852-ab85-4a82553bbad6" />
+
